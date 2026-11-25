@@ -1,0 +1,7 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+saves/savegame.json
+.DS_Store
